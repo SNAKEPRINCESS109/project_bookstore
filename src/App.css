@@ -1,0 +1,20 @@
+/* App.css */
+
+/* Ensure the app fills full height */
+.app-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--light-color); /* Uses your variables.css */
+}
+
+/* Main content grows to fill remaining space */
+main {
+  flex: 1;
+  padding: var(--space-md);
+}
+
+/* Optional: Sticky footer */
+.footer {
+  margin-top: auto;
+}

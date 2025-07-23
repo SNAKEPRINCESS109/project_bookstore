@@ -1,0 +1,27 @@
+:root[data-theme='dark'] {
+  --primary-color: #0d6efd;
+  --secondary-color: #6610f2;
+
+  --background-color: #121212;
+  --surface-color: #1e1e1e;
+  --card-color: #1c1c1c;
+
+  --text-color: #e1e1e1;
+  --text-muted: #aaa;
+
+  --border-color: #2a2a2a;
+
+  --input-bg: #1a1a1a;
+  --input-border: #333;
+  --input-placeholder: #666;
+
+  --link-color: #66b2ff;
+  --link-hover: #91caff;
+
+  --shadow-color: rgba(0, 0, 0, 0.6);
+}
+
+body[data-theme='dark'] {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
