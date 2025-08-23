@@ -1,4 +1,4 @@
-const API = `${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/books`;
+const API = `${import.meta.env.VITE_API_URL || 'project-bookstore-rho.vercel.app'}/api/books`;
 
 // ✅ Pagination-enabled fetchBooks
 export const fetchBooks = async ({ page = 1, limit = 10, search = "" } = {}) => {

@@ -1,5 +1,5 @@
 //const API = "/api/auth"; =>Prod
-const API = 'http://localhost:5000/api/auth'; //=>dev
+const API = 'project-bookstore-rho.vercel.app/api/auth'; //=>dev
 
 export const login = async (credentials) => {
   const res = await fetch(`${API}/login`, {
