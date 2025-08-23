@@ -1,0 +1,735 @@
+{
+    "numFound": 2042255,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 2042255,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "e",
+    "offset": null,
+    "docs": [
+        {
+            "author_name": [
+                "Thomas E. Pinelli"
+            ],
+            "cover_i": 8936636,
+            "title": "NASA/DoD aerospace knowledge diffusion research project"
+        },
+        {
+            "author_name": [
+                "E. L. James"
+            ],
+            "cover_i": 12648183,
+            "title": "Fifty Shades of Grey"
+        },
+        {
+            "author_name": [
+                "Viktor E. Frankl"
+            ],
+            "cover_i": 8516506,
+            "title": "... Trotzdem Ja zum Leben sagen"
+        },
+        {
+            "author_name": [
+                "E. B. White"
+            ],
+            "cover_i": 8461797,
+            "title": "Charlotte's Web"
+        },
+        {
+            "author_name": [
+                "W. E. B. Du Bois"
+            ],
+            "cover_i": 6564090,
+            "title": "The Souls of Black Folk"
+        },
+        {
+            "author_name": [
+                "Dan Brown"
+            ],
+            "cover_i": 11408459,
+            "title": "Angels & Demons"
+        },
+        {
+            "author_name": [
+                "E. L. James"
+            ],
+            "cover_i": 14566669,
+            "title": "Shades of Grey"
+        },
+        {
+            "author_name": [
+                "Arthur Conan Doyle"
+            ],
+            "cover_i": 8231444,
+            "title": "The Lost World"
+        },
+        {
+            "author_name": [
+                "Михаил Афанасьевич Булгаков"
+            ],
+            "cover_i": 12947486,
+            "title": "Мастер и Маргарита"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 14570595,
+            "title": "Crooked House"
+        },
+        {
+            "author_name": [
+                "Theodore L. Brown",
+                "H. Eugene Lemay",
+                "Bruce E. Bursten",
+                "Catherine Murphy",
+                "Patrick Woodward"
+            ],
+            "cover_i": 9407725,
+            "title": "Chemistry"
+        },
+        {
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_i": 8392798,
+            "title": "Harry Potter and the Chamber of Secrets"
+        },
+        {
+            "author_name": [
+                "Albert Camus"
+            ],
+            "cover_i": 13151269,
+            "title": "L’étranger"
+        },
+        {
+            "author_name": [
+                "William Strunk, Jr.",
+                "E. B. White",
+                "William Strunk Jr.",
+                "Roger Angell",
+                "Strunk, William, Jr."
+            ],
+            "cover_i": 10515358,
+            "title": "The Elements of Style"
+        },
+        {
+            "author_name": [
+                "Geoffrey Chaucer",
+                "John E. Cunningham",
+                "Peter Ackroyd",
+                "Ted Stearn",
+                "V. A. Kolve",
+                "Glending Olson"
+            ],
+            "cover_i": 5767180,
+            "title": "The Canterbury Tales"
+        },
+        {
+            "author_name": [
+                "John Steinbeck"
+            ],
+            "cover_i": 14319003,
+            "title": "Of Mice and Men"
+        },
+        {
+            "author_name": [
+                "Knut Hamsun",
+                "George Egerton",
+                "M. B. Ruud",
+                "Robert Bly",
+                "Paul Auster",
+                "Julius Sandmeier",
+                "Tore Rem",
+                "Terence Cave",
+                "Practice Norwegian"
+            ],
+            "cover_i": 10472647,
+            "title": "Sult"
+        },
+        {
+            "author_name": [
+                "Edward Morgan Forster"
+            ],
+            "cover_i": 8235207,
+            "title": "Howards End"
+        },
+        {
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_i": 10110415,
+            "title": "Harry Potter and the Deathly Hallows"
+        },
+        {
+            "author_name": [
+                "Ray Bradbury"
+            ],
+            "cover_i": 12993656,
+            "title": "Fahrenheit 451"
+        },
+        {
+            "author_name": [
+                "J. K. Rowling",
+                "Mary GrandPré"
+            ],
+            "cover_i": 10716273,
+            "title": "Harry Potter and the Half-Blood Prince"
+        },
+        {
+            "author_name": [
+                "Stendhal"
+            ],
+            "cover_i": 8231413,
+            "title": "Le rouge et le noir"
+        },
+        {
+            "author_name": [
+                "Edith Nesbit"
+            ],
+            "cover_i": 902122,
+            "title": "The Phoenix and the Carpet"
+        },
+        {
+            "author_name": [
+                "Dale Carnegie"
+            ],
+            "cover_i": 13314878,
+            "title": "How to Win Friends and Influence People"
+        },
+        {
+            "author_name": [
+                "Pablo Neruda"
+            ],
+            "cover_i": 747596,
+            "title": "Veinte poemas de amor y una canción desesperada"
+        },
+        {
+            "author_name": [
+                "C.S. Lewis"
+            ],
+            "cover_i": 8441376,
+            "title": "The Lion, the Witch and the Wardrobe"
+        },
+        {
+            "author_name": [
+                "Edith Nesbit"
+            ],
+            "cover_i": 4342323,
+            "title": "The Book of Dragons"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 12996529,
+            "title": "The Big Four"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 13679064,
+            "title": "The Hollow"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 12855259,
+            "title": "The Body in the Library"
+        },
+        {
+            "author_name": [
+                "Gaston Leroux"
+            ],
+            "cover_i": 8245407,
+            "title": "Le fantôme de l'opéra"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 11172296,
+            "title": "And Then There Were None"
+        },
+        {
+            "author_name": [
+                "Joseph Addison",
+                "Christine Dunn Henderson",
+                "Mark E. Yellin"
+            ],
+            "cover_i": 1614009,
+            "title": "Cato"
+        },
+        {
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_i": 10580435,
+            "title": "Harry Potter and the Prisoner of Azkaban"
+        },
+        {
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_i": 10521270,
+            "title": "Harry Potter and the Philosopher's Stone"
+        },
+        {
+            "author_name": [
+                "Edward Morgan Forster"
+            ],
+            "cover_i": 1748132,
+            "title": "A Room with a View"
+        },
+        {
+            "author_name": [
+                "J. K. Rowling",
+                "Jim Kay"
+            ],
+            "cover_i": 12059372,
+            "title": "Harry Potter and the Goblet of Fire"
+        },
+        {
+            "author_name": [
+                "William Shakespeare"
+            ],
+            "cover_i": 8222096,
+            "title": "Antony and Cleopatra"
+        },
+        {
+            "author_name": [
+                "Edith Nesbit"
+            ],
+            "cover_i": 28174,
+            "title": "Five Children and It"
+        },
+        {
+            "author_name": [
+                "Ernest Hemingway"
+            ],
+            "cover_i": 463307,
+            "title": "The Old Man and the Sea"
+        },
+        {
+            "author_name": [
+                "Anthony Burgess"
+            ],
+            "cover_i": 13151224,
+            "title": "A Clockwork Orange"
+        },
+        {
+            "author_name": [
+                "Niccolò Machiavelli"
+            ],
+            "cover_i": 12726168,
+            "title": "The Prince"
+        },
+        {
+            "author_name": [
+                "Jean-Paul Sartre"
+            ],
+            "cover_i": 9393973,
+            "title": "La nausée"
+        },
+        {
+            "author_name": [
+                "John Steinbeck"
+            ],
+            "cover_i": 9292332,
+            "title": "The Pearl"
+        },
+        {
+            "author_name": [
+                "Hermann Hesse"
+            ],
+            "cover_i": 3221083,
+            "title": "Der Steppenwolf"
+        },
+        {
+            "author_name": [
+                "Rudyard Kipling"
+            ],
+            "cover_i": 1053011,
+            "title": "Kim"
+        },
+        {
+            "author_name": [
+                "Astrid Lindgren"
+            ],
+            "cover_i": 11452342,
+            "title": "Pippi Långstrump"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 10249704,
+            "title": "Sparkling Cyanide"
+        },
+        {
+            "author_name": [
+                "Agatha Christie",
+                "Christie"
+            ],
+            "cover_i": 14578132,
+            "title": "A Caribbean Mystery"
+        },
+        {
+            "author_name": [
+                "Virginia Woolf"
+            ],
+            "cover_i": 3240273,
+            "title": "Orlando"
+        },
+        {
+            "author_name": [
+                "George Orwell"
+            ],
+            "cover_i": 9267242,
+            "title": "Nineteen Eighty-Four"
+        },
+        {
+            "author_name": [
+                "Ivan Sergeevich Turgenev"
+            ],
+            "cover_i": 8236420,
+            "title": "Отцы и дети"
+        },
+        {
+            "author_name": [
+                "United States. Congress. Senate. Committee on Patents"
+            ],
+            "cover_i": 10200621,
+            "title": "[William Wheeler Hubbell, authorized to apply for patents.]"
+        },
+        {
+            "author_name": [
+                "Plutarch"
+            ],
+            "cover_i": 5788251,
+            "title": "Moralia"
+        },
+        {
+            "author_name": [
+                "Michael Ende"
+            ],
+            "cover_i": 8574580,
+            "title": "Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte"
+        },
+        {
+            "author_name": [
+                "Eric Carle"
+            ],
+            "cover_i": 7835968,
+            "title": "The Very Hungry Caterpillar"
+        },
+        {
+            "author_name": [
+                "Фёдор Михайлович Достоевский"
+            ],
+            "cover_i": 9411873,
+            "title": "Преступление и наказание"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 10247294,
+            "title": "Sleeping Murder"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 12855104,
+            "title": "Murder in Mesopotamia"
+        },
+        {
+            "author_name": [
+                "Stephenie Meyer"
+            ],
+            "cover_i": 12641977,
+            "title": "Twilight"
+        },
+        {
+            "author_name": [
+                "Rick Riordan"
+            ],
+            "cover_i": 7239831,
+            "title": "The Lightning Thief"
+        },
+        {
+            "author_name": [
+                "Edith Nesbit"
+            ],
+            "cover_i": 6644514,
+            "title": "The Enchanted Castle"
+        },
+        {
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_i": 10523466,
+            "title": "Harry Potter and the Order of the Phoenix"
+        },
+        {
+            "author_name": [
+                "C.S. Lewis"
+            ],
+            "cover_i": 9184792,
+            "title": "The Horse and His Boy"
+        },
+        {
+            "author_name": [
+                "George Bernard Shaw"
+            ],
+            "cover_i": 8288031,
+            "title": "Man and Superman"
+        },
+        {
+            "author_name": [
+                "Harper Lee"
+            ],
+            "cover_i": 12606502,
+            "title": "To Kill a Mockingbird"
+        },
+        {
+            "author_name": [
+                "Edith Nesbit"
+            ],
+            "cover_i": 13241123,
+            "title": "The Railway Children"
+        },
+        {
+            "author_name": [
+                "E. L. James"
+            ],
+            "cover_i": 14566702,
+            "title": "Fifty Shades Darker"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 10249139,
+            "title": "Nemesis"
+        },
+        {
+            "author_name": [
+                "Roald Dahl"
+            ],
+            "cover_i": 7893583,
+            "title": "Charlie and the Great Glass Elevator"
+        },
+        {
+            "author_name": [
+                "Margaret Mitchell"
+            ],
+            "cover_i": 14817133,
+            "title": "Gone With the Wind"
+        },
+        {
+            "author_name": [
+                "Augustine of Hippo"
+            ],
+            "cover_i": 9022521,
+            "title": "Confessions"
+        },
+        {
+            "author_name": [
+                "Margaret Atwood"
+            ],
+            "cover_i": 8231851,
+            "title": "The Handmaid's Tale"
+        },
+        {
+            "author_name": [
+                "Titus Lucretius Carus"
+            ],
+            "cover_i": 566208,
+            "title": "De rerum natura"
+        },
+        {
+            "author_name": [
+                "Pablo Picasso",
+                "Jean-Louis Andral",
+                "Pierre Daix"
+            ],
+            "cover_i": 2238306,
+            "title": "Picasso"
+        },
+        {
+            "author_name": [
+                "Publius Vergilius Maro"
+            ],
+            "cover_i": 6968564,
+            "title": "Aeneis"
+        },
+        {
+            "author_name": [
+                "Jane Austen"
+            ],
+            "cover_i": 14348537,
+            "title": "Pride and Prejudice"
+        },
+        {
+            "author_name": [
+                "Three Initiates"
+            ],
+            "cover_i": 8801364,
+            "title": "The Kybalion"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 14561660,
+            "title": "Appointment with Death"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 14578204,
+            "title": "A Murder Is Announced"
+        },
+        {
+            "author_name": [
+                "Horace Walpole"
+            ],
+            "cover_i": 6468730,
+            "title": "The Castle of Otranto"
+        },
+        {
+            "author_name": [
+                "William Shakespeare"
+            ],
+            "cover_i": 7338455,
+            "title": "All's Well That Ends Well"
+        },
+        {
+            "author_name": [
+                "Louisa May Alcott"
+            ],
+            "cover_i": 12147640,
+            "title": "Good wives"
+        },
+        {
+            "author_name": [
+                "Patrick Süskind"
+            ],
+            "cover_i": 10910286,
+            "title": "Perfume"
+        },
+        {
+            "author_name": [
+                "George MacDonald"
+            ],
+            "cover_i": 14364546,
+            "title": "Lilith"
+        },
+        {
+            "author_name": [
+                "Hermann Hesse"
+            ],
+            "cover_i": 12569297,
+            "title": "Demian"
+        },
+        {
+            "author_name": [
+                "Agatha Christie"
+            ],
+            "cover_i": 10249524,
+            "title": "They Do It with Mirrors"
+        },
+        {
+            "author_name": [
+                "Suzanne Collins"
+            ],
+            "cover_i": 12646537,
+            "title": "The Hunger Games"
+        },
+        {
+            "author_name": [
+                "James Joyce"
+            ],
+            "cover_i": 6609259,
+            "title": "Finnegans Wake"
+        },
+        {
+            "author_name": [
+                "Лев Толстой"
+            ],
+            "cover_i": 12621906,
+            "title": "War and Peace"
+        },
+        {
+            "author_name": [
+                "John Keats"
+            ],
+            "cover_i": 5635209,
+            "title": "Poems by John Keats"
+        },
+        {
+            "author_name": [
+                "William Shakespeare"
+            ],
+            "cover_i": 8257991,
+            "title": "Romeo and Juliet"
+        },
+        {
+            "author_name": [
+                "Jane Austen"
+            ],
+            "cover_i": 9278312,
+            "title": "Emma"
+        },
+        {
+            "author_name": [
+                "Jules Verne"
+            ],
+            "cover_i": 5890987,
+            "title": "Voyage au Centre de la Terre"
+        },
+        {
+            "author_name": [
+                "Jane Austen"
+            ],
+            "cover_i": 9278292,
+            "title": "Sense and Sensibility"
+        },
+        {
+            "author_name": [
+                "Aristotle"
+            ],
+            "cover_i": 129771,
+            "title": "La Poetica"
+        },
+        {
+            "author_name": [
+                "Dorothy L. Sayers"
+            ],
+            "cover_i": 8311819,
+            "title": "Whose Body?"
+        },
+        {
+            "author_name": [
+                "Franz Kafka"
+            ],
+            "cover_i": 997423,
+            "title": "Der Proceß"
+        },
+        {
+            "author_name": [
+                "Martin Heidegger",
+                "John Macquarrie",
+                "Edward S. Robinson",
+                "Friedrich-Wilhelm von Herrmann"
+            ],
+            "cover_i": 2208564,
+            "title": "Sein und Zeit"
+        }
+    ]
+}

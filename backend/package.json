@@ -15,7 +15,7 @@
     "jwt",
     "bookstore"
   ],
-  "author": "Debasish Sahoo",
+  "author": "Rupsha Nandi",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",

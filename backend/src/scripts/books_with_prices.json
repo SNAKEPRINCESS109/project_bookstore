@@ -1,0 +1,825 @@
+[
+  {
+    "title": "NASA/DoD aerospace knowledge diffusion research project",
+    "author_name": [
+      "Thomas E. Pinelli"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8936636-M.jpg",
+    "price": 25.47
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "author_name": [
+      "E. L. James"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12648183-M.jpg",
+    "price": 27.99
+  },
+  {
+    "title": "... Trotzdem Ja zum Leben sagen",
+    "author_name": [
+      "Viktor E. Frankl"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8516506-M.jpg",
+    "price": 17.93
+  },
+  {
+    "title": "Charlotte's Web",
+    "author_name": [
+      "E. B. White"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8461797-M.jpg",
+    "price": 34.8
+  },
+  {
+    "title": "The Souls of Black Folk",
+    "author_name": [
+      "W. E. B. Du Bois"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/6564090-M.jpg",
+    "price": 32.76
+  },
+  {
+    "title": "Angels & Demons",
+    "author_name": [
+      "Dan Brown"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/11408459-M.jpg",
+    "price": 23.79
+  },
+  {
+    "title": "Shades of Grey",
+    "author_name": [
+      "E. L. James"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14566669-M.jpg",
+    "price": 15.89
+  },
+  {
+    "title": "The Lost World",
+    "author_name": [
+      "Arthur Conan Doyle"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8231444-M.jpg",
+    "price": 26.09
+  },
+  {
+    "title": "\u041c\u0430\u0441\u0442\u0435\u0440 \u0438 \u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430",
+    "author_name": [
+      "\u041c\u0438\u0445\u0430\u0438\u043b \u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u0438\u0447 \u0411\u0443\u043b\u0433\u0430\u043a\u043e\u0432"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12947486-M.jpg",
+    "price": 39.32
+  },
+  {
+    "title": "Crooked House",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14570595-M.jpg",
+    "price": 34.41
+  },
+  {
+    "title": "Chemistry",
+    "author_name": [
+      "Theodore L. Brown",
+      "H. Eugene Lemay",
+      "Bruce E. Bursten",
+      "Catherine Murphy",
+      "Patrick Woodward"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9407725-M.jpg",
+    "price": 26.29
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author_name": [
+      "J. K. Rowling"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8392798-M.jpg",
+    "price": 36.75
+  },
+  {
+    "title": "L\u2019\u00e9tranger",
+    "author_name": [
+      "Albert Camus"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/13151269-M.jpg",
+    "price": 20.96
+  },
+  {
+    "title": "The Elements of Style",
+    "author_name": [
+      "William Strunk, Jr.",
+      "E. B. White",
+      "William Strunk Jr.",
+      "Roger Angell",
+      "Strunk, William, Jr."
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10515358-M.jpg",
+    "price": 38.21
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author_name": [
+      "Geoffrey Chaucer",
+      "John E. Cunningham",
+      "Peter Ackroyd",
+      "Ted Stearn",
+      "V. A. Kolve",
+      "Glending Olson"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/5767180-M.jpg",
+    "price": 13.36
+  },
+  {
+    "title": "Of Mice and Men",
+    "author_name": [
+      "John Steinbeck"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14319003-M.jpg",
+    "price": 20.6
+  },
+  {
+    "title": "Sult",
+    "author_name": [
+      "Knut Hamsun",
+      "George Egerton",
+      "M. B. Ruud",
+      "Robert Bly",
+      "Paul Auster",
+      "Julius Sandmeier",
+      "Tore Rem",
+      "Terence Cave",
+      "Practice Norwegian"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10472647-M.jpg",
+    "price": 18.65
+  },
+  {
+    "title": "Howards End",
+    "author_name": [
+      "Edward Morgan Forster"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8235207-M.jpg",
+    "price": 24.03
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author_name": [
+      "J. K. Rowling"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10110415-M.jpg",
+    "price": 39.95
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author_name": [
+      "Ray Bradbury"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12993656-M.jpg",
+    "price": 30.31
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author_name": [
+      "J. K. Rowling",
+      "Mary GrandPr\u00e9"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10716273-M.jpg",
+    "price": 21.88
+  },
+  {
+    "title": "Le rouge et le noir",
+    "author_name": [
+      "Stendhal"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8231413-M.jpg",
+    "price": 14.33
+  },
+  {
+    "title": "The Phoenix and the Carpet",
+    "author_name": [
+      "Edith Nesbit"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/902122-M.jpg",
+    "price": 39.26
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author_name": [
+      "Dale Carnegie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/13314878-M.jpg",
+    "price": 27.77
+  },
+  {
+    "title": "Veinte poemas de amor y una canci\u00f3n desesperada",
+    "author_name": [
+      "Pablo Neruda"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/747596-M.jpg",
+    "price": 30.74
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author_name": [
+      "C.S. Lewis"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8441376-M.jpg",
+    "price": 22.09
+  },
+  {
+    "title": "The Book of Dragons",
+    "author_name": [
+      "Edith Nesbit"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/4342323-M.jpg",
+    "price": 30.14
+  },
+  {
+    "title": "The Big Four",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12996529-M.jpg",
+    "price": 35.68
+  },
+  {
+    "title": "The Hollow",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/13679064-M.jpg",
+    "price": 35.19
+  },
+  {
+    "title": "The Body in the Library",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12855259-M.jpg",
+    "price": 34.72
+  },
+  {
+    "title": "Le fant\u00f4me de l'op\u00e9ra",
+    "author_name": [
+      "Gaston Leroux"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8245407-M.jpg",
+    "price": 39.45
+  },
+  {
+    "title": "And Then There Were None",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/11172296-M.jpg",
+    "price": 39.76
+  },
+  {
+    "title": "Cato",
+    "author_name": [
+      "Joseph Addison",
+      "Christine Dunn Henderson",
+      "Mark E. Yellin"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/1614009-M.jpg",
+    "price": 12.77
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author_name": [
+      "J. K. Rowling"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10580435-M.jpg",
+    "price": 39.42
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author_name": [
+      "J. K. Rowling"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10521270-M.jpg",
+    "price": 23.44
+  },
+  {
+    "title": "A Room with a View",
+    "author_name": [
+      "Edward Morgan Forster"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/1748132-M.jpg",
+    "price": 23.51
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author_name": [
+      "J. K. Rowling",
+      "Jim Kay"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12059372-M.jpg",
+    "price": 36.7
+  },
+  {
+    "title": "Antony and Cleopatra",
+    "author_name": [
+      "William Shakespeare"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8222096-M.jpg",
+    "price": 10.59
+  },
+  {
+    "title": "Five Children and It",
+    "author_name": [
+      "Edith Nesbit"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/28174-M.jpg",
+    "price": 37.4
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author_name": [
+      "Ernest Hemingway"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/463307-M.jpg",
+    "price": 34.96
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author_name": [
+      "Anthony Burgess"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/13151224-M.jpg",
+    "price": 23.35
+  },
+  {
+    "title": "The Prince",
+    "author_name": [
+      "Niccol\u00f2 Machiavelli"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12726168-M.jpg",
+    "price": 10.48
+  },
+  {
+    "title": "La naus\u00e9e",
+    "author_name": [
+      "Jean-Paul Sartre"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9393973-M.jpg",
+    "price": 15.42
+  },
+  {
+    "title": "The Pearl",
+    "author_name": [
+      "John Steinbeck"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9292332-M.jpg",
+    "price": 12.97
+  },
+  {
+    "title": "Der Steppenwolf",
+    "author_name": [
+      "Hermann Hesse"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/3221083-M.jpg",
+    "price": 33.92
+  },
+  {
+    "title": "Kim",
+    "author_name": [
+      "Rudyard Kipling"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/1053011-M.jpg",
+    "price": 31.78
+  },
+  {
+    "title": "Pippi L\u00e5ngstrump",
+    "author_name": [
+      "Astrid Lindgren"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/11452342-M.jpg",
+    "price": 13.34
+  },
+  {
+    "title": "Sparkling Cyanide",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10249704-M.jpg",
+    "price": 33.1
+  },
+  {
+    "title": "A Caribbean Mystery",
+    "author_name": [
+      "Agatha Christie",
+      "Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14578132-M.jpg",
+    "price": 29.94
+  },
+  {
+    "title": "Orlando",
+    "author_name": [
+      "Virginia Woolf"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/3240273-M.jpg",
+    "price": 10.19
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "author_name": [
+      "George Orwell"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9267242-M.jpg",
+    "price": 38.52
+  },
+  {
+    "title": "\u041e\u0442\u0446\u044b \u0438 \u0434\u0435\u0442\u0438",
+    "author_name": [
+      "Ivan Sergeevich Turgenev"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8236420-M.jpg",
+    "price": 26.17
+  },
+  {
+    "title": "[William Wheeler Hubbell, authorized to apply for patents.]",
+    "author_name": [
+      "United States. Congress. Senate. Committee on Patents"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10200621-M.jpg",
+    "price": 39.34
+  },
+  {
+    "title": "Moralia",
+    "author_name": [
+      "Plutarch"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/5788251-M.jpg",
+    "price": 12.17
+  },
+  {
+    "title": "Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zur\u00fcckbrachte",
+    "author_name": [
+      "Michael Ende"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8574580-M.jpg",
+    "price": 20.3
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "author_name": [
+      "Eric Carle"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/7835968-M.jpg",
+    "price": 21.75
+  },
+  {
+    "title": "\u041f\u0440\u0435\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+    "author_name": [
+      "\u0424\u0451\u0434\u043e\u0440 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447 \u0414\u043e\u0441\u0442\u043e\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9411873-M.jpg",
+    "price": 18.96
+  },
+  {
+    "title": "Sleeping Murder",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10247294-M.jpg",
+    "price": 34.03
+  },
+  {
+    "title": "Murder in Mesopotamia",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12855104-M.jpg",
+    "price": 17.59
+  },
+  {
+    "title": "Twilight",
+    "author_name": [
+      "Stephenie Meyer"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12641977-M.jpg",
+    "price": 15.21
+  },
+  {
+    "title": "The Lightning Thief",
+    "author_name": [
+      "Rick Riordan"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/7239831-M.jpg",
+    "price": 37.26
+  },
+  {
+    "title": "The Enchanted Castle",
+    "author_name": [
+      "Edith Nesbit"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/6644514-M.jpg",
+    "price": 26.06
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author_name": [
+      "J. K. Rowling"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10523466-M.jpg",
+    "price": 31.33
+  },
+  {
+    "title": "The Horse and His Boy",
+    "author_name": [
+      "C.S. Lewis"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9184792-M.jpg",
+    "price": 37.85
+  },
+  {
+    "title": "Man and Superman",
+    "author_name": [
+      "George Bernard Shaw"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8288031-M.jpg",
+    "price": 34.43
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author_name": [
+      "Harper Lee"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12606502-M.jpg",
+    "price": 34.82
+  },
+  {
+    "title": "The Railway Children",
+    "author_name": [
+      "Edith Nesbit"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/13241123-M.jpg",
+    "price": 10.01
+  },
+  {
+    "title": "Fifty Shades Darker",
+    "author_name": [
+      "E. L. James"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14566702-M.jpg",
+    "price": 32.87
+  },
+  {
+    "title": "Nemesis",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10249139-M.jpg",
+    "price": 23.75
+  },
+  {
+    "title": "Charlie and the Great Glass Elevator",
+    "author_name": [
+      "Roald Dahl"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/7893583-M.jpg",
+    "price": 30.64
+  },
+  {
+    "title": "Gone With the Wind",
+    "author_name": [
+      "Margaret Mitchell"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14817133-M.jpg",
+    "price": 23.58
+  },
+  {
+    "title": "Confessions",
+    "author_name": [
+      "Augustine of Hippo"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9022521-M.jpg",
+    "price": 34.51
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author_name": [
+      "Margaret Atwood"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8231851-M.jpg",
+    "price": 28.6
+  },
+  {
+    "title": "De rerum natura",
+    "author_name": [
+      "Titus Lucretius Carus"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/566208-M.jpg",
+    "price": 12.78
+  },
+  {
+    "title": "Picasso",
+    "author_name": [
+      "Pablo Picasso",
+      "Jean-Louis Andral",
+      "Pierre Daix"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/2238306-M.jpg",
+    "price": 12.83
+  },
+  {
+    "title": "Aeneis",
+    "author_name": [
+      "Publius Vergilius Maro"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/6968564-M.jpg",
+    "price": 36.03
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author_name": [
+      "Jane Austen"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14348537-M.jpg",
+    "price": 37.65
+  },
+  {
+    "title": "The Kybalion",
+    "author_name": [
+      "Three Initiates"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8801364-M.jpg",
+    "price": 27.53
+  },
+  {
+    "title": "Appointment with Death",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14561660-M.jpg",
+    "price": 35.31
+  },
+  {
+    "title": "A Murder Is Announced",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14578204-M.jpg",
+    "price": 36.96
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author_name": [
+      "Horace Walpole"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/6468730-M.jpg",
+    "price": 22.37
+  },
+  {
+    "title": "All's Well That Ends Well",
+    "author_name": [
+      "William Shakespeare"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/7338455-M.jpg",
+    "price": 37.52
+  },
+  {
+    "title": "Good wives",
+    "author_name": [
+      "Louisa May Alcott"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12147640-M.jpg",
+    "price": 37.23
+  },
+  {
+    "title": "Perfume",
+    "author_name": [
+      "Patrick S\u00fcskind"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10910286-M.jpg",
+    "price": 13.36
+  },
+  {
+    "title": "Lilith",
+    "author_name": [
+      "George MacDonald"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/14364546-M.jpg",
+    "price": 39.46
+  },
+  {
+    "title": "Demian",
+    "author_name": [
+      "Hermann Hesse"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12569297-M.jpg",
+    "price": 28.34
+  },
+  {
+    "title": "They Do It with Mirrors",
+    "author_name": [
+      "Agatha Christie"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/10249524-M.jpg",
+    "price": 37.09
+  },
+  {
+    "title": "The Hunger Games",
+    "author_name": [
+      "Suzanne Collins"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12646537-M.jpg",
+    "price": 22.98
+  },
+  {
+    "title": "Finnegans Wake",
+    "author_name": [
+      "James Joyce"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/6609259-M.jpg",
+    "price": 31.97
+  },
+  {
+    "title": "War and Peace",
+    "author_name": [
+      "\u041b\u0435\u0432 \u0422\u043e\u043b\u0441\u0442\u043e\u0439"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/12621906-M.jpg",
+    "price": 15.8
+  },
+  {
+    "title": "Poems by John Keats",
+    "author_name": [
+      "John Keats"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/5635209-M.jpg",
+    "price": 14.69
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author_name": [
+      "William Shakespeare"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8257991-M.jpg",
+    "price": 22.2
+  },
+  {
+    "title": "Emma",
+    "author_name": [
+      "Jane Austen"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9278312-M.jpg",
+    "price": 27.9
+  },
+  {
+    "title": "Voyage au Centre de la Terre",
+    "author_name": [
+      "Jules Verne"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/5890987-M.jpg",
+    "price": 16.0
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author_name": [
+      "Jane Austen"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/9278292-M.jpg",
+    "price": 37.51
+  },
+  {
+    "title": "La Poetica",
+    "author_name": [
+      "Aristotle"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/129771-M.jpg",
+    "price": 17.72
+  },
+  {
+    "title": "Whose Body?",
+    "author_name": [
+      "Dorothy L. Sayers"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/8311819-M.jpg",
+    "price": 36.36
+  },
+  {
+    "title": "Der Proce\u00df",
+    "author_name": [
+      "Franz Kafka"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/997423-M.jpg",
+    "price": 22.57
+  },
+  {
+    "title": "Sein und Zeit",
+    "author_name": [
+      "Martin Heidegger",
+      "John Macquarrie",
+      "Edward S. Robinson",
+      "Friedrich-Wilhelm von Herrmann"
+    ],
+    "cover_i": "https://covers.openlibrary.org/b/id/2208564-M.jpg",
+    "price": 29.37
+  }
+]
