@@ -46,10 +46,9 @@ app.use('/api/orders', orderRoutes);
 app.use('/api/users', userRoutes);
 app.use(express.static(path.join(process.cwd(), "dist")));
 
-app.get('*', (req, res) => {
-  res.sendFile(path.join(process.cwd(), 'dist', 'index.html'));
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../dist", "index.html"));
 });
-
 // ✅ Error handling middleware
 app.use(errorHandler);
 
