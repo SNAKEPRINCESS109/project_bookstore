@@ -1,0 +1,242 @@
+/* forms.css */
+
+:root {
+  /* Keep existing variables, but consider adjusting primary/secondary for the new blue theme if desired */
+  --space-xs: 0.25rem;
+  --space-sm: 0.75rem;
+  --space-md: 1.25rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 1rem;
+  --color-primary: #2F80ED; /* A shade of blue for primary elements */
+  --color-secondary: #2196F3; /* A lighter shade for accents */
+  --color-bg: #ffffff;
+  --color-border: #e0e0e0;
+  --color-text: #333;
+  --color-placeholder: #aaa;
+  --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --gradient: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  /* REMOVE this background image - it will now be handled by globals.css or specific container */
+  /* background: url("https://source.unsplash.com/1600x900/?abstract,texture") no-repeat center center / cover; */
+  display: flex; /* Keep flex to center content */
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.form-wrapper { /* Add a new wrapper for the two-column layout */
+    display: flex;
+    max-width: 900px; /* Adjust max-width as per the image's overall size */
+    width: 90%;
+    border-radius: var(--radius-md);
+    /* overflow: hidden; */
+    box-shadow: var(--shadow-md);
+    background-color: white; /* The entire wrapper has a white background */
+}
+
+.form-image {
+  flex: 1; /* Takes up one part of the flex space */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white; /* Blue background for the image section */
+  padding: var(--space-md);
+  color: white; /* Text color for brand */
+  text-align: center;
+  position: relative;
+  box-shadow: var(--shadow-md);
+}
+
+.form-image img {
+  width: 80%; /* Adjust image size within its container */
+  height: auto;
+  display: block;
+  object-fit: contain; /* Use contain to fit the whole image */
+  border-radius: 0; /* Remove border-radius here */
+}
+
+/* Styling for the branding text in the image section */
+.form-image .brand-text {
+    position: absolute;
+    top: 20px; /* Adjust as needed */
+    left: 20px; /* Adjust as needed */
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.form-image .slogan-text {
+    position: absolute;
+    bottom: 20px; /* Adjust as needed */
+    left: 20px; /* Adjust as needed */
+    font-size: 0.9rem;
+    color: black;
+    text-align: center;
+    padding-left: 50px;
+    max-width: 80%;
+}
+
+
+.form-container { /* This will be the actual form part */
+  flex: 1; /* Takes up one part of the flex space */
+  background-color: transparent; /* White background for the form itself */
+  border-radius: 0; /* No radius on this side if the wrapper has it */
+  box-shadow: none; /* No shadow here, handled by wrapper */
+  max-width: none; /* No max-width here, flex handles sizing */
+  width: auto; /* Let flex handle width */
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Vertically center content if desired */
+  align-items: center; /* Horizontally center content */
+}
+
+form {
+  width: 100%;
+  padding: 0; /* Remove padding from here as it's on form-container */
+  max-width: 350px; /* Constrain the form elements width */
+}
+
+form h2 {
+  text-align: center;
+  margin-bottom: var(--space-md);
+  color: #333; /* Darker color for headings on white background */
+  font-size: 2rem; /* Larger "Welcome" text */
+}
+
+label {
+  display: block;
+  margin-bottom: var(--space-xs);
+  font-weight: 600;
+  color: #555; /* Softer color for labels */
+}
+
+input,
+select,
+textarea {
+  width: 100%; /* Make inputs fill the width of the form */
+  padding: 0.75rem 1rem;
+  margin-bottom: var(--space-md);
+  border: 1px solid #ddd; /* Lighter border */
+  border-radius: var(--radius-sm);
+  font-size: 1rem;
+  background-color: #f9f9f9; /* Slightly off-white background for inputs */
+  color: var(--color-text);
+  box-shadow: none; /* Remove subtle shadow */
+  transition: all 0.3s ease;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-placeholder);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--color-primary); /* Primary blue border on focus */
+  outline: none; /* Remove default outline */
+  box-shadow: 0 0 0 1px var(--color-primary); /* Subtle blue shadow on focus */
+}
+
+button {
+  display: inline-block;
+  background: var(--color-primary); /* Use solid primary color, or gradient if preferred */
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: var(--shadow-sm);
+  width: 100%; /* Make button fill width */
+  /* margin-top: var(--space-md);  */
+}
+
+button i {
+  margin-right: 0.5rem;
+}
+
+button:hover {
+  transform: translateY(-1px); /* Slightly less aggressive hover */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); /* Adjusted shadow on hover */
+}
+
+/* Add styles for social login buttons */
+.social-login {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    width: 100%;
+    margin-top: var(--space-md);
+}
+
+.social-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid #eee;
+    border-radius: var(--radius-sm);
+    background-color: white;
+    color: #555;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.social-button:hover {
+    background-color: #f0f0f0;
+    border-color: #ccc;
+}
+
+.social-button img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+/* Optional: "Don't have an account?" text */
+.form-footer-text {
+    margin-top: var(--space-md);
+    font-size: 0.9rem;
+    color: black;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.form-footer-text a {
+    color: var(--color-primary);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.form-footer-text a:hover {
+    text-decoration: solid;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .form-wrapper {
+        flex-direction: column; /* Stack image and form vertically on small screens */
+        max-width: 400px; /* Adjust max-width for stacked layout */
+    }
+
+    .form-image {
+        display: none; /* Hide image on small screens or adjust size */
+        /* You might want to display a smaller image or just a logo */
+    }
+
+    .form-container {
+        padding: 1.5rem;
+    }
+}

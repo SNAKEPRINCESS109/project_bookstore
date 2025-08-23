@@ -1,0 +1,143 @@
+@import './reset.css';
+@import './variables.css';
+
+/* Base styles */
+body {
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-base);
+  background-image: url("/assets/background.jpg");
+  color: var(--text-color);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  background-attachment: fixed;
+}
+#root {
+  height: 100vh;
+  width: 100vw;
+  
+}
+
+/* Container layout */
+.container {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+  align-items: center;
+  background-color: transparent;
+}
+
+/* Link styling */
+a {
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: background-color 0.3s e
+}
+
+a:hover {
+  color: whitesmoke;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Responsive typography enhancements */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: var(--heading-color, var(--white-color));
+  line-height: 1.3;
+  margin: var(--space-md) 0 var(--space-sm);
+  text-align: center;
+}
+
+p {
+  margin-bottom: var(--space-sm);
+  color: var(--white-color);
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+input { 
+  margin-bottom: 0;
+}
+.book-filter {
+  display: flex;
+  align-items: center;
+}
+/* Button base styling */
+button,
+.button {
+  padding: 0.75rem 1.5rem;
+  background: var(--primary-color);
+  color: #FF7171;
+  font-size: 1rem;
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+button:hover,
+.button:hover {
+  background-color: #FF7171;
+}
+
+/* Form elements */
+input,
+textarea,
+select {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--border-color, #ccc);
+  border-radius: var(--radius-sm);
+  background-color: #fff;
+  color: var(--text-color);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--primary-color);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(74, 0, 224, 0.1);
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+.mt-lg {
+  margin-top: var(--space-lg);
+}
+
+.mb-md {
+  margin-bottom: var(--space-md);
+}
+
+/* Add this to src/styles/globals.css or a new file like src/styles/loading.css */
+
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1); /* Light grey border */
+  border-left-color: var(--color-primary, #007bff); /* Use your theme's primary color, fallback to blue */
+  border-radius: 50%; /* Makes it a circle */
+  width: 40px; /* Size of the spinner */
+  height: 40px;
+  animation: spin 1s linear infinite; /* Animation definition */
+  margin: 20px auto; /* Center it horizontally with some vertical spacing */
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

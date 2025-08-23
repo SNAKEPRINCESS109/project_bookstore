@@ -1,0 +1,139 @@
+/* src/styles/navbar.css */
+
+/*
+  This file contains a complete redesign of the navbar to be "very pretty"
+  and have a transparent, "frosted glass" effect.
+  It keeps all original colors and fonts from your global styles.
+*/
+
+.navbar {
+  /* Use a semi-transparent background with a blur filter for a "frosted glass" effect */
+  background-color: transparent; /* 85% opacity of original color */
+  backdrop-filter: blur(10px); /* Add the blur effect */
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
+  
+  color: #ffffff; /* Original color */
+  padding: var(--space-xl) var(--space-lg); /* Made the navbar thinner by reducing vertical padding */
+  position: relative;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height:  50px;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  /* Add a subtle shadow for depth and rounded corners for a modern feel */
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  /* border-bottom-left-radius: var(--radius-xl);
+  border-bottom-right-radius: var(--radius-xl); */
+  border-radius: var(--radius-xl);;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* A subtle bottom border */
+  
+}
+
+.logo {
+  /* Keep original size and color but add a better font and letter spacing */
+  font-size: 1.5rem; /* Original font size */
+  font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Georgia', serif; /* An elegant serif font for the logo */
+  letter-spacing: 1.5px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Subtle shadow for text */
+  transition: transform 0.2s ease;
+}
+
+.logo:hover {
+  transform: scale(1.05); /* Slight scale up on hover */
+}
+
+/* Styling for the navigation container */
+.navbar .flex {
+  align-items: center;
+}
+
+/* Styling for all navigation links */
+.navbar a {
+  /* Keep original colors and font sizes */
+  color: whitesmoke; /* Original color from reset.css */
+  font-size: 20px; /* Original font size from reset.css */
+  font-family: 'Times New Roman', Times, serif; /* Original font from reset.css */
+
+  /* Improve the look with better padding and a dynamic hover effect */
+  text-decoration: none;
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  position: relative;
+  display: inline-flex;
+  
+}
+
+.navbar a:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* A more subtle hover */
+  transform: translateY(-3px); /* A more pronounced lift */
+}
+
+/* Styling for the original button and button-outline */
+.navbar .button,
+.navbar .button-outline {
+  font-size: 1rem; /* From buttons.css */
+  padding: 0.5rem 1rem; /* From buttons.css */
+  border-radius: var(--radius-sm);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Overriding original button colors to match the transparent theme */
+.navbar .button {
+  background-color: var(--color-white, #fff); /* White button */
+  color: #B33791; /* Original text color */
+}
+
+.navbar .button:hover {
+  background-color: #f0f0f0; /* Slightly darker on hover */
+  transform: translateY(-2px);
+}
+
+.navbar .button-outline {
+  background-color: transparent;
+  border: 2px solid var(--color-white, #ffffff);
+  color: var(--color-white, #ffffff);
+}
+
+.navbar .button-outline:hover {
+  background-color: var(--color-white, #ffffff);
+  color: #D291BC;
+  transform: translateY(-2px);
+}
+
+/*
+  Responsive adjustments for smaller screens
+*/
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-md);
+    padding: var(--space-md);
+    border-radius: 20px;
+  }
+
+  .navbar > div.flex {
+    flex-direction: column;
+    width: 70%;
+    max-height: 10%;
+    gap: var(--space-sm);
+    
+  }
+
+  .navbar a,
+  .navbar .button,
+  .navbar .button-outline {
+    width: 100%;
+    text-align: center;
+  }
+}

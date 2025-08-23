@@ -1,0 +1,36 @@
+/* Footer wrapper */
+.footer {
+  background-color: transparent;
+  color: black;
+  text-align: center;
+  padding: var(--space-sm) var(--space-md);
+  border: 1px solid var(--border-color);
+  font-size: 0.875rem;
+  /* height: 20px; */
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 20px;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  
+}
+
+/* Footer links */
+.footer a {
+  color: var(--primary-color);
+  text-decoration: none;
+  margin: 0 var(--space-xs);
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: var(--link-hover-color, #0056b3);
+}
+
+/* Dark theme support */
+:root[data-theme='dark'] .footer {
+  background-color: var(--dark-color);
+  color: var(--text-color);
+  border-top: 1px solid var(--border-color, #2a2a2a);
+}
+

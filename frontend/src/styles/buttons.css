@@ -1,0 +1,63 @@
+.button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: none;
+  border-radius: 0.75rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  color:  whitesmoke;
+}
+
+/* .button::before { 
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 10%, transparent 10.01%);
+  background-size: 5% 5%;
+  z-index: 0; 
+}  */
+
+@keyframes shine {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  100% {
+    transform: translateX(50%) translateY(50%);
+  }
+}
+
+.button-primary {
+  background: #FF7171;
+  color: white;
+  box-shadow: 0 4px 20px rgba(218, 165, 213, 0.973);
+}
+
+.button-primary:hover {
+  background: #fd6969cc;
+  box-shadow: 0 6px 25px rgba(218, 165, 213, 0.973);
+}
+
+.button-outline {
+  background: transparent;
+  border: 2px solid #e2349f;
+  color: whitesmoke;
+  box-shadow: inset 0 0 0 transparent;
+}
+
+.button-outline:hover {
+  background: #e2349f;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(246, 59, 221, 0.4);
+}
